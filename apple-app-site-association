@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7SJ52WSM4M.com.zazmic.joyoftipping",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "CASW293229.com.zazmic.Rakuten",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
